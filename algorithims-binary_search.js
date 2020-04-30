@@ -21,7 +21,7 @@ var doSearch = function (array, targetValue) {
   }
   return -1;
 };
-
+//hi
 var primes = [
   2,
   3,
